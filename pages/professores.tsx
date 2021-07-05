@@ -40,14 +40,12 @@ const Professores: React.FC = () => {
             area="Geografia/Sociologia"
           />
           <Professor nome="Diogo Pelaes" area="Matemática" />
-          <Professor nome="Eunice Shintani" area="Educação Física" />
           <Professor nome="Fabiana Cristine Gonçalves" area="Informática" />
           <Professor nome="João Rodrigues dos Santos" area="Administração" />
           <Professor
             nome="João Samuel Rodrigues Santos Junior"
             area="História"
           />
-          <Professor nome="Kely C. Boaventura Antoniolli" area="Inglês" />
           <Professor nome="Luciane T. N. Shimozono" area="Inglês" />
           <Professor
             nome="Mirella Christine C. C. Ganzarolli"
@@ -60,15 +58,11 @@ const Professores: React.FC = () => {
             nome="Rita de Cássia G. Carvalho"
             area="Orientação Profissional, coordenadora Ensino Médio"
           />
-          <Professor nome="Valéria Lemos Silveira" area="Biologia" />
-          <Professor
+         <Professor
             nome="Wagner Luiz Schmidt"
             area="Informática, coordenador Técnico Informática"
           />
-          <Professor
-            nome="Wilson Jorge M. dos Santos"
-            area="Administração, coordenador Técnico Administração"
-          />
+          
         </ul>
       </main>
     </>
