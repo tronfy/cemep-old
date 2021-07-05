@@ -58,11 +58,10 @@ const Professores: React.FC = () => {
             nome="Rita de Cássia G. Carvalho"
             area="Orientação Profissional, coordenadora Ensino Médio"
           />
-         <Professor
+          <Professor
             nome="Wagner Luiz Schmidt"
             area="Informática, coordenador Técnico Informática"
           />
-          
         </ul>
       </main>
     </>
