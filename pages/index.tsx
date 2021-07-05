@@ -18,7 +18,7 @@ const Home: React.FC = () => {
               A escola está aberta de segunda a sexta-feira das 8h00 às 17h00
               para atender a comunidade escolar
             </li>
-            <li>Aulas presenciais ainda NÃO autorizadas</li>
+            <li>Aulas presenciais conforme cronograma já divulgado</li>
             <li>
               A escola segue com aulas online pelo Google Meet e atividades
               remotas através do Google Sala de Aula
@@ -26,7 +26,8 @@ const Home: React.FC = () => {
             <li>Para contato: sec.cemep@gmail.com</li>
           </ul>
         </Post>
-        <Post titulo="VESTIBULINHO 2021" subtitulo="(VAGAS PREENCHIDAS)">
+        <Post titulo="VESTIBULINHO 2022" subtitulo="(Aguarde publicação do edital)">
+          /* comentário
           <b>
             Resultado:{' '}
             <Link href="/vestibulinho">
@@ -39,6 +40,7 @@ const Home: React.FC = () => {
             semanário da Prefeitura
           </a>{' '}
           (a partir da página 3)
+          */
         </Post>
         <Post titulo="Ciclo de Palestras e I Colóquio">
           Realizado de 24 a 28/08/2020 em comemoração aos 30 anos do Cemep{' '}
