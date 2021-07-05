@@ -1,0 +1,19 @@
+@import './theme';
+
+.ano,
+.titulo {
+  margin: 0;
+  padding: 0;
+}
+
+.hr {
+  margin: 1em 0;
+}
+
+.destaque {
+  font-size: 10pt;
+
+  ul {
+    margin: 0.5em 0;
+  }
+}

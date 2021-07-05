@@ -1,0 +1,11 @@
+@import './theme';
+
+.home {
+  h1,
+  h2 {
+    &:not(.keep) {
+      margin: 0;
+      padding: 0;
+    }
+  }
+}

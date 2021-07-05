@@ -1,0 +1,27 @@
+@import './theme';
+
+.menu {
+  font-size: 12pt;
+  background: $dark;
+  ul {
+    list-style: none;
+    text-align: center;
+
+    li {
+      display: inline-block;
+      text-align: center;
+      padding: 0.3em 0;
+
+      a {
+        padding: 0.3em 0.8em;
+        text-decoration: none;
+        color: $light;
+      }
+
+      a:hover {
+        background: $gray;
+        color: $dark;
+      }
+    }
+  }
+}

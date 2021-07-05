@@ -1,0 +1,21 @@
+@import './theme';
+
+.footer {
+  padding: 1em 0;
+  font-size: 12pt;
+
+  height: 4em;
+
+  display: flex;
+  align-items: center;
+
+  div {
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  .notice {
+    font-size: 10pt;
+    color: $gray;
+  }
+}

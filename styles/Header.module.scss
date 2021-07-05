@@ -1,0 +1,12 @@
+@import './theme';
+
+.header {
+  background: $dark;
+  padding: 2em 0 0.5em 0;
+
+  div {
+    width: 746px;
+    height: 90px;
+    margin: 0 auto;
+  }
+}
