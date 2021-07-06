@@ -2,11 +2,29 @@
 
 .header {
   background: $dark;
-  padding: 2em 0 0.5em 0;
+  padding: 2em 0.1em 0.5em 0.1em;
+  color: $light;
+
+  h1 {
+    font-size: 46pt;
+  }
+
+  h2 {
+    font-size: 14pt;
+    font-weight: normal;
+  }
+
+  h1,
+  h2 {
+    margin: 0;
+    padding: 0;
+  }
+
+  .yellow {
+    color: $yellow;
+  }
 
   div {
-    width: 746px;
-    height: 90px;
-    margin: 0 auto;
+    text-align: center;
   }
 }

@@ -1,8 +1,5 @@
 import React from 'react'
 
-import Image from 'next/image'
-
-import logo from '../public/logo.png'
 import styles from '../styles/Header.module.scss'
 
 const Header: React.FC = () => {
@@ -10,7 +7,11 @@ const Header: React.FC = () => {
     <>
       <header className={styles.header}>
         <div>
-          <Image src={logo} alt="CEMEP" />
+          <h1>CEMEP</h1>
+          <h2 className={styles.yellow}>
+            Centro Municipal de Ensino Profissionalizante Osmar Passarelli
+            Silveira | Paulínia - SP
+          </h2>
         </div>
       </header>
     </>

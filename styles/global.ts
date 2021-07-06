@@ -13,6 +13,9 @@ body {
 
 	font-family: Roboto, 'Segoe UI', sans-serif;
 	font-size: 12pt;
+
+  width: 100%;
+  position:fixed;
 }
 
 h1 {
@@ -47,6 +50,9 @@ table {
 	width: 750px;
   height: 100%;
 
+  text-align: justify;
+  text-justify: inter-word;
+
   ul {
     padding-left: 1em;
     list-style: none;
@@ -59,7 +65,12 @@ table {
 
   p {
     padding: .5em 0;
-    text-align: justify;
+  }
+}
+
+@media (max-width: 865px) {
+  .container {
+    width: 95vw;
   }
 }
 

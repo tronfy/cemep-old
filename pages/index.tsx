@@ -10,6 +10,8 @@ const Home: React.FC = () => {
       <Head title="Home" />
 
       <main className={styles.home}>
+        <Post titulo="VESTIBULINHO 2022">Aguarde publicação do edital</Post>
+
         <Post titulo="Informes abril/2021">
           <ul>
             <li>
@@ -24,10 +26,7 @@ const Home: React.FC = () => {
             <li>Para contato: sec.cemep@gmail.com</li>
           </ul>
         </Post>
-        <Post
-          titulo="VESTIBULINHO 2022"
-          subtitulo="(Aguarde publicação do edital)"
-        />
+
         <Post titulo="Ciclo de Palestras e I Colóquio">
           Realizado de 24 a 28/08/2020 em comemoração aos 30 anos do Cemep{' '}
           <br />
