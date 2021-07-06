@@ -60,37 +60,6 @@ const Horario: React.FC = () => {
             <td>-----</td>
           </tr>
         </table>
-
-        <table>
-          <tr>
-            <td></td>
-            <th>NOITE</th>
-          </tr>
-          <tr>
-            <td>1ª</td>
-            <td>19h00 às 19h45</td>{' '}
-          </tr>
-          <tr>
-            <td>2ª</td>
-            <td>19h45 às 20h30</td>
-          </tr>
-          <tr>
-            <td>3ª</td>
-            <td>20h30 às 21h15</td>
-          </tr>
-          <tr>
-            <td>intervalo</td>
-            <td>21h15 às 21h30</td>
-          </tr>
-          <tr>
-            <td>4ª</td>
-            <td>21h30 às 22h15</td>{' '}
-          </tr>
-          <tr>
-            <td>5ª</td>
-            <td>22h15 às 23h00</td>
-          </tr>
-        </table>
       </main>
     </>
   )

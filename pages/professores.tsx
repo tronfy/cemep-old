@@ -19,9 +19,14 @@ const Professores: React.FC = () => {
         <h2>Professores</h2>
         <ul>
           <Professor nome="Alcimar Veiga Lima de Melo" area="Artes" />
+          <Professor nome="Amanda C. da Silva Sponton" area="Educação Física" />
           <Professor
             nome="Ana Lucia D´Elia Vinhal R. de Sousa"
             area="Química"
+          />
+          <Professor
+            nome="André Luís Ricardo Cantalogo"
+            area="Filosofia/História"
           />
           <Professor
             nome="André Luís Ruggiero Barroso"
@@ -41,7 +46,6 @@ const Professores: React.FC = () => {
           />
           <Professor nome="Diogo Pelaes" area="Matemática" />
           <Professor nome="Fabiana Cristine Gonçalves" area="Informática" />
-          <Professor nome="João Rodrigues dos Santos" area="Administração" />
           <Professor
             nome="João Samuel Rodrigues Santos Junior"
             area="História"

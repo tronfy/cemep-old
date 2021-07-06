@@ -80,7 +80,7 @@ const Historico: React.FC = () => {
           A escola que funcionava há mais de 20 anos no mesmo local, teve seu
           prédio cedido para ensino fundamental no começo de 2011 e foi
           transferido junto ao prédio que também estava a Universidade São
-          Marco. Um prédio público abaixo das arquibancadas do Sambódromo no
+          Marcos. Um prédio público abaixo das arquibancadas do Sambódromo no
           complexo Brasil 500. Contudo no ano de 2012, o CEMEP volta ao seu
           prédio, localizado na Av Brasil, 330 - Vila Bressani.
         </p>
