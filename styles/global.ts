@@ -15,7 +15,6 @@ body {
 	font-size: 12pt;
 
   width: 100%;
-  position:fixed;
 }
 
 h1 {
@@ -48,10 +47,6 @@ table {
 	margin: 0 auto;
   padding: 2em 1em;
 	width: 750px;
-  height: 100%;
-
-  text-align: justify;
-  text-justify: inter-word;
 
   ul {
     padding-left: 1em;
@@ -65,6 +60,8 @@ table {
 
   p {
     padding: .5em 0;
+    text-align: justify;
+    text-justify: auto;
   }
 }
 
