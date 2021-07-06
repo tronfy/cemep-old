@@ -1,7 +1,5 @@
 import React from 'react'
 
-import Link from 'next/link'
-
 import Head from '../components/Head'
 import Post from '../components/Post'
 import styles from '../styles/Home.module.scss'
@@ -26,22 +24,10 @@ const Home: React.FC = () => {
             <li>Para contato: sec.cemep@gmail.com</li>
           </ul>
         </Post>
-        <Post titulo="VESTIBULINHO 2022" subtitulo="(Aguarde publicação do edital)">
-          /* comentário
-          <b>
-            Resultado:{' '}
-            <Link href="/vestibulinho">
-              <a>clique aqui</a>
-            </Link>
-          </b>
-          <br />
-          Para acesso ao edital completo:{' '}
-          <a href="http://www.paulinia.sp.gov.br/uploads/semanarios/1530_EXTRA.pdf">
-            semanário da Prefeitura
-          </a>{' '}
-          (a partir da página 3)
-          */
-        </Post>
+        <Post
+          titulo="VESTIBULINHO 2022"
+          subtitulo="(Aguarde publicação do edital)"
+        />
         <Post titulo="Ciclo de Palestras e I Colóquio">
           Realizado de 24 a 28/08/2020 em comemoração aos 30 anos do Cemep{' '}
           <br />
