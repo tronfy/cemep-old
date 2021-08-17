@@ -17,7 +17,7 @@ const Vestibulinho: React.FC = () => {
             edital completo
           </a>
         </h2>
-        <h2>a partir da página 3</h2>
+        <h4>(a partir da página 3)</h4>
       </main>
     </>
   )
