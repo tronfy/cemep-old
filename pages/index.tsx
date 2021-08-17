@@ -13,7 +13,7 @@ const Home: React.FC = () => {
         <Post titulo="VESTIBULINHO 2022">
           <h2>Inscrições de 15/09 a 15/10/2021</h2>
           <h2>
-            através do link da <a href="www.paulinia.sp.gov.br">prefeitura</a>
+            através do link da <a href="http://www.paulinia.sp.gov.br">prefeitura</a>
           </h2>
           <h2>
             Veja todas as informações no{' '}
