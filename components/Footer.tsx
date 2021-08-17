@@ -8,7 +8,7 @@ const Footer: React.FC = () => {
       <footer className={styles.footer}>
         <div>
           <p>Av Brasil, 330 - Vila Bressani - Paulínia - SP</p>
-          <p>(19) 3833-2643 | 3833-2355 | cemep@paulinia.sp.gov.br</p>
+          <p>(19) 3874-9457 | sec.cemep@gmail.com</p>
           <p className={styles.notice}>
             Cemep © {new Date().getFullYear()} - Todos os direitos reservados
           </p>
