@@ -46,7 +46,7 @@ export default class MyDocument extends Document {
 
           <link
             rel="stylesheet"
-            href="https://fonts.googleapis.com/css?family=Roboto:400,700"
+            href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=optional"
           />
         </Head>
 

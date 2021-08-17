@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import React from 'react'
 
 import styles from '../styles/Fotos.module.scss'
@@ -36,6 +37,7 @@ const Fotos: React.FC<Props> = props => {
             className={styles.img}
             src={img}
             id={props.path + idx}
+            alt={props.path + idx}
             onClick={modalImg}
           />
           <div
@@ -49,6 +51,7 @@ const Fotos: React.FC<Props> = props => {
             <img
               className={styles.modal_content}
               id={'modimg_' + props.path + idx}
+              alt={'modimg_' + props.path + idx}
             />
           </div>
         </div>
