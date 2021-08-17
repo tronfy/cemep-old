@@ -18,7 +18,7 @@ const Home: React.FC = () => {
               edital completo
             </a>
           </h2>
-          <h2>a partir da página 3</h2>
+          <h4>(a partir da página 3)</h4>
         </Post>
 
         <Post titulo="Informes agosto/2021">
