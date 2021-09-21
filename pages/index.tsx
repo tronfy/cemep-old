@@ -3,6 +3,7 @@ import React from 'react'
 import Head from '../components/Head'
 import Post from '../components/Post'
 import styles from '../styles/Home.module.scss'
+import Vestibulinho from './vestibulinho'
 
 const Home: React.FC = () => {
   return (
@@ -10,21 +11,8 @@ const Home: React.FC = () => {
       <Head title="Home" />
 
       <main className={styles.home}>
-        <Post titulo="VESTIBULINHO 2022">
-          <h2>Inscrições de 15/09 a 15/10/2021 no link abaixo</h2>
-          <h4>
-            <a href="http://sistemas1.paulinia.sp.gov.br/insccemepetep/">
-              http://sistemas1.paulinia.sp.gov.br/insccemepetep/{' '}
-            </a>
-          </h4>
-          <h2>
-            Veja todas as informações no{' '}
-            <a href="http://www.paulinia.sp.gov.br/uploads/semanarios/1671.pdf">
-              edital completo
-            </a>
-          </h2>
-          <h4>(a partir da página 3)</h4>
-        </Post>
+        <Vestibulinho />
+        <br />
 
         <Post titulo="Informes agosto/2021">
           <ul>

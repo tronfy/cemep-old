@@ -1,11 +1,9 @@
 @import './theme';
 
-// .vestibulinho {
-//   h1,
-//   h2 {
-//     &:not(.keep) {
-//       margin: 0;
-//       padding: 0;
-//     }
-//   }
-// }
+.vestibulinho {
+  h1,
+  h2 {
+    margin-top: 0.6em;
+    padding: 0;
+  }
+}
