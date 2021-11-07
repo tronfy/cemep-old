@@ -15,8 +15,9 @@ const Vestibulinho: React.FC = () => {
           <a href="Indeferidas.pdf">
             veja aqui
           </a>
-          <p>
+            <br>
           Inscrições de 15/09 a 15/10/2021 (encerradas)
+            <br>
         </h2>
         <h2>
           Veja o Edital completo{' '}
