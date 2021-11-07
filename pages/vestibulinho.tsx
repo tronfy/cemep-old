@@ -24,7 +24,6 @@ const Vestibulinho: React.FC = () => {
             aqui
           </a>
         </h2>
-        <h4>(a partir da página 3)</h4>
       </main>
     </>
   )
