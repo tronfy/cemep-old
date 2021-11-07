@@ -11,19 +11,13 @@ const Vestibulinho: React.FC = () => {
       <main className={styles.vestibulinho}>
         <h1>Vestibulinho CEMEP 2022</h1>
         <h2>
-          Inscrições indeferidas:{' '}
-          <a href="Indeferidas.pdf">
-            veja aqui
-          </a>
-            <br>
+          Inscrições indeferidas: <a href="Indeferidas.pdf">veja aqui</a>
+          <br />
           Inscrições de 15/09 a 15/10/2021 (encerradas)
-            <br>
+          <br />
         </h2>
         <h2>
-          Veja o Edital completo{' '}
-          <a href="Edital Vestibulinho 2022.pdf">
-            aqui
-          </a>
+          Veja o Edital completo <a href="Edital Vestibulinho 2022.pdf">aqui</a>
         </h2>
       </main>
     </>
