@@ -11,7 +11,7 @@ const Vestibulinho: React.FC = () => {
       <main className={styles.vestibulinho}>
         <h1>Vestibulinho CEMEP 2022</h1>
         <h2>
-          06/12: Candidatos Aptos com inscrição deferida: <a href="">aguarde</a>
+          06/12: Candidatos Aptos com inscrição deferida: <a href="CandidatosAptos.pdf">veja aqui</a>
           <br />
           Recursos somente presencial
           <br />
