@@ -11,9 +11,14 @@ const Vestibulinho: React.FC = () => {
       <main className={styles.vestibulinho}>
         <h1>Vestibulinho CEMEP 2022</h1>
         <h2>
-          Candidatos Aptos com inscrição deferida: <a href="CandidatosAptos.pdf">veja aqui</a>
+          06/12: Candidatos Aptos com inscrição deferida: <a href="CandidatosAptos.pdf">veja aqui</a>
           <br />
-          Inscrições indeferidas: <a href="Indeferidas.pdf">veja aqui</a>
+          Recursos somente presencial
+          <br />
+          Dias 07, 08 e 09/12 das 8h às 17h
+          <br />
+          <br />
+          08/11: Inscrições indeferidas: <a href="Indeferidas.pdf">veja aqui</a>
           <br />
           Inscrições de 15/09 a 15/10/2021 (encerradas)
           <br />
