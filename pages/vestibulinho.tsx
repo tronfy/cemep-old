@@ -11,7 +11,17 @@ const Vestibulinho: React.FC = () => {
       <main className={styles.vestibulinho}>
         <h1>Vestibulinho 2022</h1>
         <h2>
-          15/12: O resultado será publicado às 18h
+          15/12: resultado final:
+          <br />
+          <a href="1a_chamada_2022.pdf">Aprovados em 1ª chamada</a>
+          <br />
+          <a href="classif_geral_2022.pdf">Classificação geral</a>
+          <br />
+          <a href="Doc_matricula.pdf">Orientações e documentos para matrícula</a>
+          <br />
+          Matrícula dias 26 e 27/01/2022 das 8h às 17h
+          <br />
+          2ª chamada para vagas remanescentes em 27/01/22 às 18h
           <br />
           <br />
           06/12: Candidatos com inscrição deferida: <a href="CandidatosAptos.pdf">veja aqui</a>
