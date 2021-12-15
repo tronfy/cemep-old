@@ -21,7 +21,7 @@ const Vestibulinho: React.FC = () => {
           <br />
           Matrícula dias 26 e 27/01/2022 das 8h às 17h
           <br />
-          2ª chamada para vagas remanescentes em 27/01/22 às 18h
+          2ª chamada em 27/01/22 às 18h
           <br />
           <br />
           06/12: Candidatos com inscrição deferida: <a href="CandidatosAptos.pdf">veja aqui</a>
