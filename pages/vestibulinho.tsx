@@ -11,6 +11,15 @@ const Vestibulinho: React.FC = () => {
       <main className={styles.vestibulinho}>
         <h1>Vestibulinho 2022</h1>
         <h2>
+          27/01: <a href="2a_chamada_2022.pdf">Aprovados em 2ª chamada</a>
+          <br />
+          Matrícula dias 28/01 das 8h às 17h e 01/02/2022 das 9h às 17h
+          <br />
+          Obs: dia 31/01 a escola estará fechada para desinsetização
+          <br />
+          3ª chamada em 01/02/22 às 18h
+          <br />
+          <br />
           15/12: resultado final:
           <br />
           <a href="1a_chamada_2022.pdf">Aprovados em 1ª chamada</a>
