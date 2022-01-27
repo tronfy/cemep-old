@@ -13,7 +13,7 @@ const Vestibulinho: React.FC = () => {
         <h2>
           27/01: <a href="2a_chamada_2022.pdf">Aprovados em 2ª chamada</a>
           <br />
-          Matrícula dias 28/01 das 8h às 17h e 01/02/2022 das 9h às 17h
+          Matrícula dias 28/01 das 8h às 17h e 01/02 das 9h às 17h
           <br />
           Obs: dia 31/01 a escola estará fechada para desinsetização
           <br />
