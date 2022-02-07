@@ -11,6 +11,11 @@ const Vestibulinho: React.FC = () => {
       <main className={styles.vestibulinho}>
         <h1>Vestibulinho 2022</h1>
         <h2>
+          07/02: <a href="5a_chamada_2022.pdf">Aprovados em 5ª chamada</a>
+          <br />
+          Matrícula dias 08 e 09/02 das 8h às 17h
+          <br />
+          <br />
           04/02: <a href="4a_chamada_2022.pdf">Aprovados em 4ª chamada</a>
           <br />
           Matrícula dias 04 e 07/02 das 8h às 17h
