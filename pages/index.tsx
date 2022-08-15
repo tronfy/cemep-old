@@ -10,7 +10,7 @@ const Home: React.FC = () => {
     <>
       <Head title="Home" />
       <h2>
-        Início das aulas: 08/02/2022
+        
       </h2>
       <br />
       <br />
