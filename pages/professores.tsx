@@ -32,19 +32,14 @@ const Professores: React.FC = () => {
             nome="André Luís Ruggiero Barroso"
             area="Educação Física"
           />
-          <Professor nome="Camila da Silva Oliveira" area="Biologia" />
           <Professor nome="Carmem Ap. Santos Bornancim" area="Português" />
           <Professor nome="Cesar Augusto F. Balbino" area="Informática" />
           <Professor nome="Cilene Vicente dos Santos" area="Português" />
           <Professor
-            nome="Cleia Regina B. Ferreira"
-            area="História/Filosofia/Sociologia"
-          />
-          <Professor
             nome="Daniel Teixeira Almeida"
-            area="Geografia/Sociologia"
+            area="Geografia"
           />
-          <Professor nome="Diogo Pelaes" area="Matemática" />
+          <Professor nome="Eliza de Oliveira Cardoso" area="Biologia" />
           <Professor nome="Fabiana Cristine Gonçalves" area="Informática" />
           <Professor
             nome="João Samuel Rodrigues Santos Junior"
@@ -56,12 +51,15 @@ const Professores: React.FC = () => {
             area="Informática"
           />
           <Professor nome="Orlando Yukio Komuro" area="Matemática" />
-          <Professor nome="Rafael Bonato" area="Física" />
+          <Professor nome="Rafael Bonato" area="Física, coordenador Ensino Médio" />
           <Professor nome="Raquel Cristina Bertolini Lot" area="Informática" />
           <Professor
             nome="Rita de Cássia G. Carvalho"
             area="Orientação Profissional, coordenadora Ensino Médio"
           />
+          <Professor nome="Sara Badra de Oliveira" area="Sociologia" />
+          <Professor nome="Tiago Lissoni Bizarri" area="Matemática" />
+          <Professor nome="Wagner Lafaiete de Oliveira Junior" area="Filosofia" />
           <Professor
             nome="Wagner Luiz Schmidt"
             area="Informática, coordenador Técnico Informática"
