@@ -30,7 +30,7 @@ const Vestibulinho: React.FC = () => {
           o laudo médico ou avaliação neuropsicológica, especificando claramente a deficiência ou as altas habilidades/superdotação.<br /><br />
         </h4>
         <h2>
-          Realizar a inscrição no link: (aguarde...)<br /><br />
+          Realizar a <a href= "http://sistemas1.paulinia.sp.gov.br/inscCemepEtep/">inscrição</a><br /><br />
         </h2>
         <h2>
           Veja o Edital completo <a href="Edital_2023.pdf">aqui</a>
